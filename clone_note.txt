@@ -1,0 +1,2 @@
+I just created empty remote repository from GitHub.com account
+and clone this repository in my desktop git
